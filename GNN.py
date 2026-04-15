@@ -2,6 +2,8 @@
 **Interesting Title Here**
 Siva Subramanian Ram, Mary Institute and Saint Louis Country Day School
 
+Disclaimer: AI was used for cleaning up and debugging the model, yet the core coding, model framework, etc. was all created by me + mentor.
+
 Abstract
 --------
 Alzheimer's disease (AD) is increasingly characterized as a disorder of large-scale
